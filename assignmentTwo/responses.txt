@@ -1,0 +1,3 @@
+A directory is basically what we think of as a folder, but needs to be used especially when discussing file systems. It is able to store files and keep them organized in a website's setup.
+VCS allow you to see previous versions of directories when engineering a website, in case something breaks or an older version is better than a newer version.
+My favorite artistic medium is clothing because it is art that you can wear. I work in costumes in theater and have a specific fondness for Elizabethan period outfits because of my interest in Shakespearean theater. I've done lots of research into this type of clothing and have made many of these period garments.
