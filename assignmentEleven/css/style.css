@@ -1,0 +1,33 @@
+#header{
+    background-image: url(../images/darkWoods.jpg);
+}
+
+h1{
+    color:#272637;
+    font-family: Fasthand;
+    font-size:90px;
+    text-align:center;
+}
+
+#title:hover{
+    background-color:#272637;
+    color:#D5E5CF;
+    font-family: Fasthand;
+}
+
+.content-paragraph{
+    margin:auto;
+    color:#272637;
+    font-size:20px;
+    line-height:33px;
+    max-width:640px;
+    font-family:Merriweather;
+    padding-bottom:50px;
+}
+
+.content-paragraph:first-line{
+    font-size:30px;
+    font-family:Merriweather-Bold;
+    line-height:40px;
+    
+}
