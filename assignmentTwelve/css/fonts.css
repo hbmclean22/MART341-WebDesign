@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Fasthand";
+    src: url(../fonts/Fasthand-Regular.ttf) format("truetype");
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Merriweather";
+    src: url(../fonts/Merriweather-Light.ttf) format("truetype");
+    font-style: light;
+}
+
+@font-face {
+    font-family: "Merriweather-Bold";
+    src: url(../fonts/Merriweather-Black.ttf) format("truetype");
+    font-weight:700;
+}
