@@ -1,0 +1,149 @@
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+/* Home Page Photo */
+#home-image {
+    float:left;
+    width:40%;
+    padding-right:30px;
+    padding-top:25px;
+    padding-bottom:10px;
+}
+
+/* Job Title */
+#job-title {
+    display:inline-block;
+}
+
+/* Berowne Garments */
+.berowne {
+    height:400px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* King Garments */
+.king {
+    height:400px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Longaville Garments */
+.longaville {
+    height:400px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Boyet Garments */
+.boyet {
+    height:475px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Don Armado Garments */
+.armado {
+    height:400px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Holofernes Garments */
+.holofernes {
+    height:475px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Angelo Garments */
+.angelo {
+    height:500px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Escalus Garments */
+.escalus {
+    height:500px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Fat Suit Garment */
+.fat-suit {
+    height:375px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Princess of France Garments */
+.princess {
+    height:400px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Rosaline Garments */
+.rosaline {
+    height:450px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Maria Garments */
+.maria {
+    height:400px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Isabella Garments */
+.isabella {
+    height:450px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Mariana Garments */
+.mariana {
+    height:400px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Costume Rendering Images */
+
+.rendering {
+    vertical-align:top;
+    display:inline-block;
+    text-align:center;
+    max-width:min-content;
+    padding:1px;
+}
+
+.rendering-image {
+    height:325px;
+}
+
+.rendering-caption {
+    display:block;
+}

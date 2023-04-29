@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Kanit-Bold";
+    src: url(../fonts/Kanit-Bold.ttf) format("truetype");
+    font-weight:700;
+}
+
+@font-face {
+    font-family: "Kanit-Regular";
+    src: url(../fonts/Kanit-Regular.ttf) format("truetype");
+    font-weight:400;
+}
+
+@font-face {
+    font-family: "Lato-Bold";
+    src: url(../fonts/Lato-Bold.ttf) format("truetype");
+    font-weight:700;
+}
+
+@font-face {
+    font-family: "Lato-Regular";
+    src: url(../fonts/Lato-Regular.ttf) format("truetype");
+    font-weight:400;
+}
+
+@font-face {
+    font-family: "RobotoCondensed-Regular";
+    src: url(../fonts/RobotoCondensed-Regular.ttf) format("truetype");
+    font-weight:400;
+}
