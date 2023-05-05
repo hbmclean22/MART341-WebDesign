@@ -1,0 +1,307 @@
+* {
+    box-sizing:border-box;
+}
+
+/* Body Styling */
+body {
+    background-color:#eff4f0;
+}
+
+/* Header Styling */
+header {
+    background-color:#970c10;
+    float:left;
+    display:block;
+    width:99%;
+    text-align:center;
+}
+
+/* Site Name Styling */
+.site-name {
+    color:#eff4f0;
+    font-family:Kanit-Bold;
+    font-weight:bold;
+    letter-spacing:5px;
+    font-size:35px;
+    padding-left:15px;
+    text-align:left;
+}
+
+/* Menu Item Styling */
+.menu-item {
+    font-family:Kanit-Regular;
+    background-color:#172c29;
+    font-size: 30px;
+    letter-spacing:2px;
+    display:inline-block;
+    clear:both;
+    width:24.75%;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align:center;
+}
+
+/* Link Styling */
+.menu-item a {
+    color:#eff4f0;
+    text-decoration:none;
+}
+
+.menu-item:hover {
+    background-color:#244c60;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+/* Home Page Photo */
+#home-image {
+    float:left;
+    width:40%;
+    padding-right:30px;
+    padding-top:25px;
+    padding-bottom:10px;
+}
+
+/* Home Content */
+#job-title {
+    display:inline-block;
+    font-family:Lato-Bold;
+    color:#970c10;
+    font-size:30px;
+}
+
+#about-me {
+    display:block;
+    font-family:Lato-Regular;
+    color:#384640;
+    font-size:25px;
+}
+
+#about-me-info {
+    display:block;
+    font-family:RobotoCondensed-Regular;
+    color:#172c29;
+    font-size:18px;
+    padding-right:20px;
+}
+
+#contact-me {
+    display:block;
+    font-family:Lato-Regular;
+    color:#384640;
+    font-size:25px;
+}
+
+#contact-info {
+    display:inline-block;
+    font-family:RobotoCondensed-Regular;
+    color:#172c29;
+    font-size:18px;
+    padding-right:20px;
+    padding-bottom:30px;
+}
+
+/* Page Section Title */
+.page-section-title {
+    display:inline-block;
+    font-family:Lato-Bold;
+    color:#970c10;
+    font-size:38px;
+    padding-left:10px;
+}
+
+/* Garment Caption Styling */
+.garment-title {
+    display:table;
+    font-family:Lato-Regular;
+    color:#384640;
+    font-size:21px;
+    padding-left:10px;
+    margin-bottom:5px;
+}
+
+.garment-info {
+    display:table;
+    font-family:RobotoCondensed-Regular;
+    color:#172c29;
+    font-size:18px;
+    padding-left:10px;
+    line-height:22px;
+}
+
+/* Design Page Styling */
+#design-title {
+    display:table;
+    font-family:Lato-Regular;
+    color:#384640;
+    font-size:25px;
+    padding-left:10px;
+}
+
+.design-features {
+    display:table;
+    font-family:Lato-Regular;
+    color:#384640;
+    font-size:20px;
+    padding-left:10px;
+}
+
+/* Berowne Garments */
+.berowne {
+    height:400px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* King Garments */
+.king {
+    height:400px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Longaville Garments */
+.longaville {
+    height:400px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Boyet Garments */
+.boyet {
+    height:475px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Don Armado Garments */
+.armado {
+    height:400px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Holofernes Garments */
+.holofernes {
+    height:475px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Angelo Garments */
+.angelo {
+    height:500px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Escalus Garments */
+.escalus {
+    height:500px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Fat Suit Garment */
+.fat-suit {
+    height:375px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Princess of France Garments */
+.princess {
+    height:400px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Rosaline Garments */
+.rosaline {
+    height:450px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Maria Garments */
+.maria {
+    height:400px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Isabella Garments */
+.isabella {
+    height:450px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Mariana Garments */
+.mariana {
+    height:400px;
+    padding:2px;
+    padding-bottom:35px;
+    float:left;
+}
+
+/* Costume Rendering Images */
+#rendering-content {
+    display:inline-block;
+    text-align: center;
+}
+
+.rendering {
+    vertical-align:top;
+    display:inline-block;
+    text-align:center;
+    max-width:min-content;
+    padding:3px;
+    padding-bottom:5px;
+}
+
+.rendering-image {
+    height:325px;
+}
+
+.rendering-caption {
+    display:block;
+    font-family:Lato-Regular;
+}
+
+/* Design About Styling */
+#rendering-about {
+    display:block;
+    font-family:Lato-Regular;
+    color:#384640;
+    font-size:20px;
+    padding-left:10px;
+    padding-top:10px;
+}
+
+#rendering-about-info {
+    display:inline-block;
+    font-family:RobotoCondensed-Regular;
+    color:#172c29;
+    font-size:18px;
+    padding-left:10px;
+    padding-right:20px;
+    padding-bottom:30px;
+}
